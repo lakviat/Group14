@@ -2,6 +2,9 @@ public class Markiyan {
     public static void main(String[] args) {
         System.out.println("Hello world");
         System.out.println("TEST");
-        System.out.println("Test2");
+        System.err.println("Test2");
+        /**
+         * Test 1
+         */
     }
 }
