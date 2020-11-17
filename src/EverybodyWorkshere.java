@@ -2,6 +2,8 @@ public class EverybodyWorkshere {
     public static void main(String[] args) {
         System.out.println("Im adding this from my site Nurlan ");
 
+        System.out.println("I don't like nested loops");
+
     }
     public void Duplicates(){
         int [] num = {10,20,30,40,50,50};
