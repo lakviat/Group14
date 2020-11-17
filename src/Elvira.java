@@ -3,5 +3,6 @@ public class Elvira {
 
         System.out.println("Hello Group14");
         System.out.println("Elvira");
+        System.out.println("Let's resolve conflicts! ");
     }
 }
