@@ -1,6 +1,9 @@
+import java.util.Arrays;
+
 public class EverybodyWorkshere {
     public static void main(String[] args) {
         System.out.println("Im adding this from my site Nurlan ");
+        System.out.println(" I am writing this for big conflict purposes");
 
     }
     public void Duplicates(){
@@ -16,5 +19,12 @@ public class EverybodyWorkshere {
                 System.out.println(num[i]);
             }
         }
+    }
+    public static void descendingOrder(int [] arr){
+        Arrays.sort(arr);
+        for(int i = arr.length-1;i>=0;i--){
+            System.out.print(arr[i]+ " ");
+        }
+        System.out.println();
     }
 }
