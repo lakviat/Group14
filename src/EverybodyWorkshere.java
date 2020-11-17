@@ -14,6 +14,7 @@ public class EverybodyWorkshere {
                 }
             }if(duplicates == true){
                 System.out.println(num[i]);
+                System.out.println("Why can not clone, I do not know so funny and interesting answer");
             }
         }
     }
