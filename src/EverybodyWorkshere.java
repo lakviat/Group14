@@ -15,6 +15,7 @@ public class EverybodyWorkshere {
             }if(duplicates == true){
                 System.out.println(num[i]);
                 System.out.println("Why can not clone, I do not know so funny and interesting answer");
+                System.out.println("why I do not have a conflicts, it is good apportunity to learn about git");
             }
         }
     }
