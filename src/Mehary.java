@@ -5,6 +5,6 @@ public class Mehary {
         System.out.println("This is so interesting class, we need to master this " +
                 "with the of these cools guys");
         System.out.println(" git and git hub is always fun and challenging");
-        System.out.println("This is cool class");;
+        System.out.println("This is a cool class");
     }
 }
