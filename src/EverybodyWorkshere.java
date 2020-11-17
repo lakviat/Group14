@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.Map;
-
 public class EverybodyWorkshere {
     public static void main(String[] args) {
         System.out.println("Im adding this from my site Nurlan ");
@@ -18,14 +15,10 @@ public class EverybodyWorkshere {
                     duplicates = true;
                     break;
                 }
-            }if(duplicates == true){
+            }if(duplicates){
                 System.out.println(num[i]);
-                System.out.println("Why can not clone, I do not know so funny and interesting answer");
+                System.out.println("Hello group 14");
             }
         }
-
     }
-    ArrayList<String> names = new ArrayList<>();
-    //Do some changes here
-
 }
