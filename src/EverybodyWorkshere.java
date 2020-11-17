@@ -5,6 +5,9 @@ public class EverybodyWorkshere {
         System.out.println("Im adding this from my site Nurlan ");
         System.out.println(" I am writing this for big conflict purposes");
 
+
+        System.out.println("I don't like nested loops");
+
         Duplicates();
     }
     public static void Duplicates(){
