@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Map;
+
 public class EverybodyWorkshere {
     public static void main(String[] args) {
         System.out.println("Im adding this from my site Nurlan ");
@@ -17,8 +20,3 @@ public class EverybodyWorkshere {
                 }
             }if(duplicates){
                 System.out.println(num[i]);
-                System.out.println("Hello group 14");
-            }
-        }
-    }
-}
