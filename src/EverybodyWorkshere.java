@@ -15,8 +15,9 @@ public class EverybodyWorkshere {
                     duplicates = true;
                     break;
                 }
-            }if(duplicates == true){
+            }if(duplicates){
                 System.out.println(num[i]);
+                System.out.println("Hello group 14");
             }
         }
     }
