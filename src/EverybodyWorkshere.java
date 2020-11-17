@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Map;
+
 public class EverybodyWorkshere {
     public static void main(String[] args) {
         System.out.println("Im adding this from my site Nurlan ");
@@ -16,5 +19,9 @@ public class EverybodyWorkshere {
                 System.out.println(num[i]);
             }
         }
+
     }
+    ArrayList<String> names = new ArrayList<>();
+    //Do some changes here
+
 }
